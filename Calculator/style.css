@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto Mono', monospace;
+    background: rgb(114, 113, 113);
+
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    width: 66px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.row {
+    margin: 4px 0;
+}
+
+.row input {
+    font-size: 21px;
+    margin: 0;
+    width: 314px;
+    padding: 10px 0px;
+    border: 2px solid Black;
+    border-radius: 5px;
+
+}
+
+.container {
+    background: rgb(49, 45, 45);
+    height: 100%;
+}
